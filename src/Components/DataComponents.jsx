@@ -1,7 +1,6 @@
 import React from "react";
-import elephant from '../images/elephant.png';
-
-const imageData=()=>{
+import elephant from "../images/elephant.jpeg";
+const DataComponents=()=>{
     const data =[
         {
             id:1,

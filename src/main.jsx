@@ -6,6 +6,6 @@ import elephant from './images/elephant.png'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <AppClass />
   </React.StrictMode>,
 )
