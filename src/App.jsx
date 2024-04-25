@@ -1,6 +1,6 @@
 import { Component } from "react";
 import "./App.css"
-import elephant from "./images/elephant.jpeg";
+import elephant from "../images/elephant.jpeg";
 import DataComponents from "./Components/DataComponents";
 
     export default class AppClass extends Component{
